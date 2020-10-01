@@ -6,8 +6,8 @@ Lightning Web Component for Flow Screens:       **datatableV2**
 
 Additional components packaged with this LWC:
 
-                    Apex Classes:   SObjectController2 
-                                    SObjectController2Test
+                    Apex Classes:   SObjectController2A 
+                                    SObjectController2ATest
                             
                     Flows:          Datatable Configuration Helper
                                     Datatable Configuration Helper - Temp SubFlow
@@ -105,12 +105,14 @@ This configures your org to essentially allow applications to run that call out 
             Bug Fix:        Fixed error when editing more than one column in a single row while suppressing the Cancel/Save buttons
   
 06/03/20 -  Eric Smith -    Version 2.31 -  
-            Updates:        Changed SObjectController to SObjectController2 to allow for easier deployment to orgs 
-                            that already have an earlier version of the datatable component    
+            Updates:        Changed SObjectController to SObjectController2A to allow for easier deployment to orgs 
+                            that already have an earlier version of the datatable component   
+                            CW: Changed to A as GWI already had a 2 
                                                                                    
 06/03/20 -  Eric Smith -    Version 2.3 -  
-            Updates:        Changed SObjectController to SObjectController2 to allow for easier deployment to orgs 
+            Updates:        Changed SObjectController to SObjectController2A to allow for easier deployment to orgs 
                             that already have an earlier version of the datatable component
+                            CW: Changed to A as GWI already had a 2 
   
 06/03/20 -  Eric Smith -    Version 2.2 -  
             Enhancements:   Added datatable border attribute

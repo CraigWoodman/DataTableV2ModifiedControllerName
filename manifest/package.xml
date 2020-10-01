@@ -6,8 +6,8 @@
         <name>Flow</name>
     </types>
     <types>
-        <members>SObjectController2</members>
-        <members>SObjectController2Test</members>
+        <members>SObjectController2A</members>
+        <members>SObjectController2ATest</members>
         <name>ApexClass</name>
     </types>
     <types>
